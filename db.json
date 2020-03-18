@@ -1,5 +1,5 @@
 {
-  "consoles":[{
+  "consoles":[
     {"id":1, "nome":"PS4", "year":2013},
     {"id":2, "nome":"XBOX One", "year":2013},
     {"id":3, "nome": Nintendo Swicth", "year":2017}
